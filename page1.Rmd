@@ -17,7 +17,7 @@ you can insert different code language chunks via the green "insert" button
 ```
 
 Make ggplot of cars, speed v. distance
-```{r carsggplot, fig.cap='simple ggplot of car speed v. distance}
+```{r carsggplot, fig.cap='simple ggplot of car speed v. distance'}
 library(plotly)
 library(ggplot2)
 ggplot(data = cars, aes(x = speed, y = dist, color=speed)) +
