@@ -16,4 +16,3 @@ output:
     toc: true
     toc_float:
       collapsed: false
-    css.styles.css
